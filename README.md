@@ -9,5 +9,5 @@ I actually only did a small change so that one can run commands with a space ins
 ## Usage:
 ```
 Invoke-Badpotato "whoami all"
-Invoke-Badpotato "powershell -enc"
+Invoke-Badpotato "powershell -enc dwBoAG8AYQBtAGkA"
 ```
